@@ -166,10 +166,7 @@ If you’re comfortable with the above, try:
 If you get stuck:
 
 - Add a markdown cell describing what you tried and what you expected vs what happened.  
-- Bring your notebook to the next session or share it with the instructor/mentor for feedback.
+- Bring your notebook to the next session or share it in Discord for feedback.
 
 Practicing these patterns now will make later topics (like Pandas and modeling) feel much more natural.
 
-```
-
-```
